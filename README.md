@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm sunnng</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
-<img src="https://media.tenor.com/leykMexN1k0AAAAd/planet-space.gif" width="400" alt="coding" />
+
 - 🌱 I’m currently learning **react native, electron**
 
 - 💬 Ask me about **react, express**
